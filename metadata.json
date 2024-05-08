@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "assets": [
+        {
+          "kind": "software-package",
+          "url": "https://github.com/sejoo37/ankimobile/blob/main/Ankimobile%20(1).ipa"
+        }
+        
+      ],
+      "metadata": {
+        "bundle-identifier": "net.ichi2.anki",
+        "bundle-version": "24.04",
+        "kind": "software",
+        "title": "AnkiMobile"
+      }
+    }
+  ]
+}
